@@ -8,8 +8,8 @@ osuny:
     id: 21cf3aa2-fb36-48ad-8602-178c6fc13170
 
 ## LANGUAGE
-defaultContentLanguage: fr
-defaultContentLanguageInSubdir: false
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
 
 ## CACHE
 deployment:
