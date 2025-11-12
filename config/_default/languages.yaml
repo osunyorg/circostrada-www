@@ -26,29 +26,3 @@ en:
     researcher: researchers
     teacher: teachers
     volume: volumes
-fr:
-  title: >-
-    Circostrada
-  contentDir: content/fr
-  languageCode: fr
-  languageName: Français
-  buildFuture: true
-  params:
-    contact_details:
-
-  taxonomies:
-    administrator: administrators
-    author: authors
-    diploma: diplomas
-    events_category: events_categories
-    jobs_category: jobs_categories
-    location: locations
-    organizations_category: organizations_categories
-    pages_category: pages_categories
-    persons_category: persons_categories
-    posts_category: posts_categories
-    programs_category: programs_categories
-    projects_category: projects_categories
-    researcher: researchers
-    teacher: teachers
-    volume: volumes
