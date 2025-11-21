@@ -29,32 +29,4 @@ items:
   children: []
   path: "/events"
   file: content/en/events/_index.html
-- title: Projects
-  target: "/projects/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/projects"
-  file: content/en/projects/_index.html
-- title: Exhibitions
-  target: "/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/exhibitions"
-  file: content/en/exhibitions/_index.html
-- title: Organizations
-  target: "/organizations/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/organizations"
-  file: content/en/organizations/_index.html
-- title: Persons
-  target: "/persons/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/persons"
-  file: content/en/persons/_index.html
 
