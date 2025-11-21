@@ -11,3 +11,6 @@ params:
   home:
     head:
       title: site
+  posts:
+    index:
+      layout: grid
