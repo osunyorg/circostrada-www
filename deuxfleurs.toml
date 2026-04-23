@@ -13,3 +13,112 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/projects/"
+to = "/library/"
+
+[[redirects]]
+from = "/plan-du-site/"
+to = "/fr/plan-du-site/"
+
+[[redirects]]
+from = "/expositions/archives-expositions/"
+to = "/fr/expositions/archives-expositions/"
+
+[[redirects]]
+from = "/organisations/"
+to = "/fr/organisations/"
+
+[[redirects]]
+from = "/posts/"
+to = "/news/"
+
+[[redirects]]
+from = "/expositions/"
+to = "/fr/expositions/"
+
+[[redirects]]
+from = "/en/posts/"
+to = "/news/"
+
+[[redirects]]
+from = "/en/sitemap/"
+to = "/sitemap/"
+
+[[redirects]]
+from = "/en/exhibitions/exhibitions-archives/"
+to = "/exhibitions/exhibitions-archives/"
+
+[[redirects]]
+from = "/en/exhibitions/"
+to = "/exhibitions/"
+
+[[redirects]]
+from = "/en/agenda/"
+to = "/activities/"
+
+[[redirects]]
+from = "/actualites/"
+to = "/fr/actualites/"
+
+[[redirects]]
+from = "/personnes/equipe-editoriale/"
+to = "/fr/personnes/equipe-editoriale/"
+
+[[redirects]]
+from = "/accessibilite/"
+to = "/fr/accessibilite/"
+
+[[redirects]]
+from = "/en/"
+to = "/"
+
+[[redirects]]
+from = "/en/projects/"
+to = "/library/"
+
+[[redirects]]
+from = "/en/accessibility/"
+to = "/accessibility/"
+
+[[redirects]]
+from = "/en/legal-terms/"
+to = "/legal-terms/"
+
+[[redirects]]
+from = "/agenda/"
+to = "/activities/"
+
+[[redirects]]
+from = "/en/persons/editors/"
+to = "/persons/editors/"
+
+[[redirects]]
+from = "/personnes/"
+to = "/fr/personnes/"
+
+[[redirects]]
+from = "/en/privacy-policy/"
+to = "/privacy-policy/"
+
+[[redirects]]
+from = "/en/organizations/"
+to = "/organizations/"
+
+[[redirects]]
+from = "/mentions-legales/"
+to = "/fr/mentions-legales/"
+
+[[redirects]]
+from = "/en/persons/"
+to = "/persons/"
+
+[[redirects]]
+from = "/politique-de-confidentialite/"
+to = "/fr/politique-de-confidentialite/"
+
+[[redirects]]
+from = "/projets/"
+to = "/fr/projets/"
+
