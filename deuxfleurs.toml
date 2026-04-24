@@ -15,110 +15,110 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/projects/"
+from = "/projects/index.html"
 to = "/library/"
 
 [[redirects]]
-from = "/plan-du-site/"
+from = "/plan-du-site/index.html"
 to = "/fr/plan-du-site/"
 
 [[redirects]]
-from = "/expositions/archives-expositions/"
+from = "/expositions/archives-expositions/index.html"
 to = "/fr/expositions/archives-expositions/"
 
 [[redirects]]
-from = "/organisations/"
+from = "/organisations/index.html"
 to = "/fr/organisations/"
 
 [[redirects]]
-from = "/posts/"
+from = "/posts/index.html"
 to = "/news/"
 
 [[redirects]]
-from = "/expositions/"
+from = "/expositions/index.html"
 to = "/fr/expositions/"
 
 [[redirects]]
-from = "/en/posts/"
+from = "/en/posts/index.html"
 to = "/news/"
 
 [[redirects]]
-from = "/en/sitemap/"
+from = "/en/sitemap/index.html"
 to = "/sitemap/"
 
 [[redirects]]
-from = "/en/exhibitions/exhibitions-archives/"
+from = "/en/exhibitions/exhibitions-archives/index.html"
 to = "/exhibitions/exhibitions-archives/"
 
 [[redirects]]
-from = "/en/exhibitions/"
+from = "/en/exhibitions/index.html"
 to = "/exhibitions/"
 
 [[redirects]]
-from = "/en/agenda/"
+from = "/en/agenda/index.html"
 to = "/activities/"
 
 [[redirects]]
-from = "/actualites/"
+from = "/actualites/index.html"
 to = "/fr/actualites/"
 
 [[redirects]]
-from = "/personnes/equipe-editoriale/"
+from = "/personnes/equipe-editoriale/index.html"
 to = "/fr/personnes/equipe-editoriale/"
 
 [[redirects]]
-from = "/accessibilite/"
+from = "/accessibilite/index.html"
 to = "/fr/accessibilite/"
 
 [[redirects]]
-from = "/en/"
+from = "/en/index.html"
 to = "/"
 
 [[redirects]]
-from = "/en/projects/"
+from = "/en/projects/index.html"
 to = "/library/"
 
 [[redirects]]
-from = "/en/accessibility/"
+from = "/en/accessibility/index.html"
 to = "/accessibility/"
 
 [[redirects]]
-from = "/en/legal-terms/"
+from = "/en/legal-terms/index.html"
 to = "/legal-terms/"
 
 [[redirects]]
-from = "/agenda/"
+from = "/agenda/index.html"
 to = "/activities/"
 
 [[redirects]]
-from = "/en/persons/editors/"
+from = "/en/persons/editors/index.html"
 to = "/persons/editors/"
 
 [[redirects]]
-from = "/personnes/"
+from = "/personnes/index.html"
 to = "/fr/personnes/"
 
 [[redirects]]
-from = "/en/privacy-policy/"
+from = "/en/privacy-policy/index.html"
 to = "/privacy-policy/"
 
 [[redirects]]
-from = "/en/organizations/"
+from = "/en/organizations/index.html"
 to = "/organizations/"
 
 [[redirects]]
-from = "/mentions-legales/"
+from = "/mentions-legales/index.html"
 to = "/fr/mentions-legales/"
 
 [[redirects]]
-from = "/en/persons/"
+from = "/en/persons/index.html"
 to = "/persons/"
 
 [[redirects]]
-from = "/politique-de-confidentialite/"
+from = "/politique-de-confidentialite/index.html"
 to = "/fr/politique-de-confidentialite/"
 
 [[redirects]]
-from = "/projets/"
+from = "/projets/index.html"
 to = "/fr/projets/"
 
