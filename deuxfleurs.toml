@@ -35,6 +35,10 @@ from = "/posts/index.html"
 to = "/news/"
 
 [[redirects]]
+from = "/files/2026/index.html"
+to = "/files/2026/circostrada-agm-france-webpdf/"
+
+[[redirects]]
 from = "/expositions/index.html"
 to = "/fr/expositions/"
 
